@@ -9,10 +9,13 @@
 - matplotlib
 ## Запуск
 python -m venv .venv
-source .venv/bin/activate # или .venv\Scripts\activate для
-Windows
+
+source .venv/bin/activate # или .venv\Scripts\activate 
+
 pip install -r requirements.txt
+
 python main.py
+
 ## Автор
 Студент группы Б1123-38.03.05ба(2), ФИО Миньковская Ксения Максимовна.
 
