@@ -13,7 +13,7 @@ source .venv/bin/activate # или .venv\Scripts\activate для
 Windows
 pip install -r requirements.txt
 python main.py
-Автор
+## Автор
 Студент группы Б1123-38.03.05ба(2), ФИО Миньковская Ксения Максимовна.
 
 # Пример бизнес-задачи
